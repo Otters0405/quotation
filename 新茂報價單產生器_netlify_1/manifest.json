@@ -1,0 +1,17 @@
+{
+  "name": "新茂企業報價單產生器",
+  "short_name": "新茂報價單",
+  "description": "晟田科技工業股份有限公司產品詢價單報價工具",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f4f0",
+  "theme_color": "#1a1a1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
